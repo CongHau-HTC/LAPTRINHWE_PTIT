@@ -1,0 +1,13 @@
+.config/
+
+.env
+
+mcp.json
+builder.json
+.vscode/
+.config/
+
+.vscode
+node_modules/
+.config
+builder.config.json
